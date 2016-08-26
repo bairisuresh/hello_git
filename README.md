@@ -12,3 +12,4 @@ https://github.com/lynndylanhurley/redux-auth
 react-redux-jwt-auth-example
 https://github.com/joshgeller/react-redux-jwt-auth-example/tree/master/src
 http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/
+http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/
