@@ -16,3 +16,6 @@ http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authen
 http://www.tutorialspoint.com/mongodb/mongodb_environment.htm
 
 http://stackoverflow.com/questions/21662153/unmounting-react-js-node
+
+
+http://stackoverflow.com/questions/28935314/reactbootstrap-popover-dismiss-on-click-outside
