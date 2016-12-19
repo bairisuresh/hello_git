@@ -19,3 +19,8 @@ http://stackoverflow.com/questions/21662153/unmounting-react-js-node
 
 
 http://stackoverflow.com/questions/28935314/reactbootstrap-popover-dismiss-on-click-outside
+
+
+
+AD:
+http://stackoverflow.com/questions/40259976/why-does-eslint-throw-an-error-on-a-require-statement/40260826
