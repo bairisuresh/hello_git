@@ -24,3 +24,6 @@ http://stackoverflow.com/questions/28935314/reactbootstrap-popover-dismiss-on-cl
 
 AD:
 http://stackoverflow.com/questions/40259976/why-does-eslint-throw-an-error-on-a-require-statement/40260826
+
+
+http://jquense.github.io/react-widgets/docs/#/?_k=6m4y8w
