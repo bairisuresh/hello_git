@@ -27,3 +27,6 @@ http://stackoverflow.com/questions/40259976/why-does-eslint-throw-an-error-on-a-
 
 
 http://jquense.github.io/react-widgets/docs/#/?_k=6m4y8w
+
+
+http://stackoverflow.com/questions/15193492/how-to-include-view-partial-specific-styling-in-angularjs
